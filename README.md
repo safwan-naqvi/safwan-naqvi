@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi There, Fancy seeing you here! 
+_________________________________________
 
-<!--
-**safwan-naqvi/safwan-naqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Syed Safwan Abbas, People call me Syed! 😀
+a tech enthusiast passionate about creating technology to elevate people,
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on NaqviHashStudio a.k.a NaqviTriTech
+- 🌱 I’m currently learning React JS and Flutter.
+- 👯 I’m looking to collaborate on Youtube and Github
+- 💬 Ask me about Android and Web Related stuff
+- 📫 How to reach me: Website - naqvitritech.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I do a lot of stuff. I am all rounder not a nerd stick with pc only. 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some technologies I enjoy working with include Java, Python, C++, Nodejs.
+let's get in touch 😉
