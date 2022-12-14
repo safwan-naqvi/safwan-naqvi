@@ -4,11 +4,11 @@ _________________________________________
 I'm Syed Safwan Abbas, People call me Syed! 😀
 a tech enthusiast passionate about creating technology to elevate people,
 
-- 🔭 I’m currently working on NaqviHashStudio a.k.a NaqviTriTech
+- 🔭 I’m currently working on NaqviHashStudio a.k.a HashBitStudios
 - 🌱 I’m currently learning React JS and Flutter.
 - 👯 I’m looking to collaborate on Youtube and Github
 - 💬 Ask me about Android and Web Related stuff
-- 📫 How to reach me: Website - naqvitritech.com
+- 📫 How to reach me: Website - hashbitstudio.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I do a lot of stuff. I am all rounder not a nerd stick with pc only. 😄
 
