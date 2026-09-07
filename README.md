@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 Currently building at [HashBitStudio PVT LTD.](https://hashbitstudio.com)
+- 🔭 Currently building at [HashBitStudio SMC-Private LTD.](https://www.hashbitstudio.com)
 - ✍️ I run [HashTechWave](https://www.hashtechwave.com), a fast-growing blog sharing:
   - Gaming guides
   - Tech news
